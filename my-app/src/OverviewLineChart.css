@@ -1,0 +1,29 @@
+@media (min-width: 480px) { 
+  .chart {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) and (min-width: 400px) { 
+  .chart {
+    width: 375px;
+  }
+}
+
+@media (max-width: 400px) and (min-width: 375px) { 
+  .chart {
+    width: 360px;
+  }
+}
+
+@media (max-width: 375px) and (min-width: 325px) { 
+  .chart {
+    width: 320px;
+  }
+}
+
+@media (max-width: 325px) { 
+  .chart {
+    width: 260px;
+  }
+}
